@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <RootNamespace>Bank_project</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Include="C:\Users\elieb\OneDrive\Documents\Bank.cs" Link="Bank.cs" />
+    </ItemGroup>
+
+</Project>
